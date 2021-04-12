@@ -165,13 +165,7 @@ h5{
 .mas{
     position: fixed;
     top: 40%;
-    width: 98px;
+    width: 150px;
     right: 50px;
 }
 
-.signo{
-    position: fixed;
-    top: 43%;
-    width: 38px;
-    right: 4.2%;
-}
